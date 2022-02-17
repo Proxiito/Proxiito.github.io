@@ -3,8 +3,8 @@
 :root, .theme-light {
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--secondary-background);
-  --background: #d9184d;
-  --secondary-background: #1f2b3b;
+  --background: #1f2b3b;
+  --secondary-background: #d9184d;
   --tertiary-background: #171E29;
   --text-color: #FFFFFF;
   --close-button: var(--dnd-color) !important;
