@@ -4,9 +4,9 @@
   --rgb-highlight: 4, 217, 255;
   --highlight: var(--secondary-background);
   --background: #fdb913;
-  --secondary-background: #231F20;
-  --tertiary-background: #40b4e5;
-  --text-color: #40b4e5;
+  --secondary-background: #40b4e5;
+  --tertiary-background: #231F20;
+  --text-color: #231F20;
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
